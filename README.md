@@ -1,11 +1,11 @@
 <p align="center">
 <h1>👋🏽, I am Yannis. Nice to meet you!</h2> 
 
-
+<img src="img/moi.png">
 </p>
 
   A curious and motivated student.  
-  I am currently studying for a Bachelor Fullstack & DevOps at <b>IPSSI</b>
+  I am currently studying for a Bachelor Fullstack & DevOps at <b>IPSSI</b><br>
   And I am also an apprentice fullstack developer at Sollan !
 
 ### Languages
