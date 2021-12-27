@@ -49,7 +49,8 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Yannis%20Lanista-black?style=for-the-badge&logo=Linkedin)(https://www.linkedin.com/in/yannis-lanista-298347198/)]
+![Linkedin](https://img.shields.io/badge/-Yannis%20Lanista-black?style=for-the-badge&logo=Linkedin)
+![Discord](https://img.shields.io/badge/Yannis%208823-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Stats 📈
 
