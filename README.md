@@ -46,10 +46,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-<!--
+
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/farid-djadda/)  
+[![Linkedin](https://img.shields.io/badge/-Lanista%20Yannis-black?style=for-the-badge&logo=Linkedin)
+
+<!--
+
 ![Discord](https://img.shields.io/badge/Farid.D%20Luffy%235904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 -->
 ### Stats 📈
