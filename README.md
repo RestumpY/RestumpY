@@ -1,7 +1,7 @@
 <p align="center">
 <h1>👋🏽, I am Yannis. Nice to meet you!</h2> 
 
-<center><img src="img/me.png" style="height :150px;" /></center>
+<img src="img/me.png" style="height :150px;" />
 </p>
 
   A curious and motivated student.  
@@ -47,7 +47,7 @@
 
 
 
-#### Social 👥
+### Social 👥
 
 ![Linkedin](https://img.shields.io/badge/-Yannis%20Lanista-black?style=for-the-badge&logo=Linkedin)
 ![Discord](https://img.shields.io/badge/Yannis%208823-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
