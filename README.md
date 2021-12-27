@@ -8,7 +8,7 @@
   I am currently studying for a Bachelor Fullstack & DevOps at <b>IPSSI</b><br>
   And I am also an apprentice fullstack developer at Sollan !
 
-### Languages
+### Languages 👨‍💻
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
@@ -55,5 +55,4 @@
 ### Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=RestumpY&hide=stars&show_icons=true&theme=blueberry" />
-
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestumpY&layout=compact&theme=blueberry" />  
