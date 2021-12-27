@@ -49,12 +49,8 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Lanista%20Yannis-black?style=for-the-badge&logo=Linkedin)
+[![Linkedin](https://img.shields.io/badge/-Yannis%20Lanista-black?style=for-the-badge&logo=Linkedin)(https://www.linkedin.com/in/yannis-lanista-298347198/)]
 
-<!--
-
-![Discord](https://img.shields.io/badge/Farid.D%20Luffy%235904-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
--->
 ### Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=RestumpY&hide=stars&show_icons=true&theme=blueberry" />
