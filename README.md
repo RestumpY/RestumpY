@@ -1,7 +1,7 @@
 <p align="center">
 <h1>👋🏽, I am Yannis. Nice to meet you!</h2> 
 
-<img src="img/me.png" style="height :150px;" />
+<img src="https://zupimages.net/up/21/52/8mop.png" alt="" /></a>" style="height :150px;" />
 </p>
 
   A curious and motivated student.  
