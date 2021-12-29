@@ -8,7 +8,7 @@
   I am currently studying for a Bachelor Fullstack & DevOps at <b>IPSSI</b><br>
   And I am also an apprentice fullstack developer at Sollan !
 
-### Languages 👨‍💻
+### Languages 🎓
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
@@ -33,7 +33,7 @@
 ![Composer](https://img.shields.io/badge/composer-%23777BB4.svg?style=for-the-badge&logo=composer&logoColor=white)
 
 
-### Version Control
+### Version Control 👨‍💻
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
