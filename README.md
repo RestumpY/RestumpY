@@ -45,13 +45,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-
-### Social 👥
-
-![Linkedin](https://img.shields.io/badge/-Yannis%20Lanista-black?style=for-the-badge&logo=Linkedin)
-![Discord](https://img.shields.io/badge/Yannis%208823-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
 ### Stats 📈
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=RestumpY&hide=stars&show_icons=true&theme=blueberry" />
